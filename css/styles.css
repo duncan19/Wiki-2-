@@ -6,18 +6,21 @@
 
 #siderow{
   margin-left: -6.5%;
+  background-color: #f9f9f9;
 }
 #talk{
   margin-right: 50%
 }
 .body{
   font-size: 12px;
+
 }
 ul.sideList{
   list-style-type: none;
   margin-left: -18%;
   line-height: 180%;
   font-family: sans-serif;
+
 }
 h3{
 
@@ -48,6 +51,7 @@ hr{
 }
 .welcomeTo{
   float: left;
+
 }
 .welcomeList2{
   float: right;
@@ -61,4 +65,27 @@ hr{
 }
  #dangerpanel{
    padding-right: 40px;
+}
+.floatimg{
+  float: left;
+  padding: 5px;
+}
+.floatimg2{
+  padding-top: 5px;
+  float: right;
+  padding-right: 5px;
+}
+#floatimg4{
+  padding-top: 5px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+#addpadding{
+  padding-bottom: 10px;
+}
+
+body{
+  background-color: #f9f9f9;
 }
